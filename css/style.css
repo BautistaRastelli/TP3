@@ -1,0 +1,42 @@
+table td {
+    border: 1px solid black;
+    margin: 10px;
+}
+#centrar {
+    margin: auto;
+    width:50%;
+}
+
+th {
+    border: 1px solid black; 
+}
+.head_3 { background-color: red;
+    color: white
+}
+
+.foot_3 {
+background-color: rgb(29, 252, 0);
+color: white;
+}
+
+#fila_1 {
+background-color: red;
+}
+
+#fila_2 {
+    background-color: white;
+}
+
+#fila_3 {
+    background-color: rgb(29, 252, 0);
+}
+
+#tabla_4 {
+    margin: auto;
+    width: 100%
+}
+
+tbody:active{
+    background-color: yellow;
+}
+
